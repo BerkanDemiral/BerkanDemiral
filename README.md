@@ -12,5 +12,4 @@
 - ⚡ Fun fact: i love music and especially jazz and alternative music :) 
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=BerkanDemiral&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanDemiral)](https://github.com/BerkanDemiral/github-readme-stats)
-</p><br />
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?BerkanDemiral" frameborder="0"></iframe>
