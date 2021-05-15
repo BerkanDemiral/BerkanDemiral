@@ -9,7 +9,7 @@
 - 📫 How to reach me: 
   - :bulb: [Medium articles](https://demiralbrkn.medium.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/berkan-demiral-37a9a618b/)
-- ⚡ Fun fact: i love music and especially jazz and alternative music :) 
+- ⚡ Fun fact: i love music and especially jazz and alternative music :)) 
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BerkanDemiral&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanDemiral&langs_count=5&theme=tokyonight)]()
