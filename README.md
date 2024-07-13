@@ -1,8 +1,8 @@
 ## Hi there I'm Berkan Demiral 
 
-- 🌱 I’m currently learning Java and Data science with python
-- 👯 I’m looking to collaborate on Java 
-- 💬 Ask me about Java, Python or Data Science 
+- 🌱 I’m currently learning React Native and Data science with python
+- 👯 I’m looking to collaborate on .Net Core, Data science with python and SQL 
+- 💬 Ask me about .NET Core, Python or Data Science 
 - :zap: I love researching, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
